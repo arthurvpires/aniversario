@@ -22,6 +22,7 @@ main{
     align-items: flex-start;
     width: 420px;
     box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.274);
+    border-radius: 5px;
 
 }
 .niver{
