@@ -1,0 +1,62 @@
+img{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+}
+body{
+    background-color: rgb(236, 148, 163);
+    font-family: 'Strait', sans-serif;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top:100px;
+}
+.box{
+    background-color: white;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 420px;
+    box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.274);
+
+}
+.niver{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left:20px;
+
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    width: 380px;
+    margin-top:20px;
+    margin-bottom: 15px;
+    height: 35px;
+    background-color: rgb(236, 148, 163);
+    color:white;
+    border-radius: 5px;
+    border:none;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Strait', sans-serif;
+    padding-top: 5px;
+}
+h2{
+    margin-left:15px;
+}
+.idade{
+    color:gray;
+    margin-left: 5px;
+
+}
+h3{
+    margin-left: 5px;
+}
